@@ -115,7 +115,7 @@ export default function Home() {
               Desenvolvedor <span className="text-foreground font-semibold">Web Jr</span>
             </motion.p>
             <motion.p variants={fadeInUp} className="text-lg text-muted-foreground max-w-2xl mx-auto mb-12 leading-relaxed">
-              Formado em Informática pelo <span className="text-accent font-medium">SENAI</span>. Especialista em transformar ideias em interfaces modernas e responsivas através de um CSS limpo e organizado.
+              Sou desenvolvedor web formado em Informática pelo <span className="text-accent font-medium">SENAI</span>, com conhecimentos em HTML, CSS e JavaScript. Meu principal foco é o CSS, criando interfaces modernas, responsivas e bem organizadas.
             </motion.p>
             
             <motion.div variants={fadeInUp} className="flex gap-4 justify-center flex-wrap">
