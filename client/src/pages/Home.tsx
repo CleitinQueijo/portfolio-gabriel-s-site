@@ -258,10 +258,10 @@ export default function Home() {
             >
               <h2 className="text-4xl md:text-5xl font-black mb-8 tracking-tight">Sobre Mim</h2>
               <p className="text-muted-foreground mb-6 leading-relaxed text-lg">
-                Minha jornada no desenvolvimento começou no <span className="text-foreground font-bold">SENAI</span>, onde descobri minha passion por criar interfaces que não apenas funcionam, mas encantam.
+                Sou desenvolvedor web com formação técnica em Informática pelo <span className="text-foreground font-bold">SENAI</span>, Tenho conhecimentos em HTML, CSS e JavaScript, com maior destaque para o CSS, área em que mais desenvolvi minhas habilidades na criação de interfaces responsivas, organizadas e com um bom acabamento visual.
               </p>
               <p className="text-muted-foreground mb-10 leading-relaxed text-lg">
-                Acredito que o design é a alma de qualquer software. Por isso, dedico grande parte do meu tempo aperfeiçoando minhas habilidades em <span className="text-accent font-bold">CSS</span> e arquitetura de componentes, sempre buscando o equilíbrio entre estética e performance.
+                Durante minha formação e nos projetos desenvolvidos, adquiri experiência na construção de páginas <span className="text-accent font-bold">web</span> aplicando boas práticas de desenvolvimento e buscando manter o código limpo e bem estruturado. Procuro criar projetos que sejam funcionais, fáceis de navegar e que atendam às necessidades de cada proposta, sempre buscando evoluir meus conhecimentos e aperfeiçoar minhas habilidades como desenvolvedor.
               </p>
 
               <div className="grid grid-cols-2 gap-4">
